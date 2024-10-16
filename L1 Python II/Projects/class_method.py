@@ -42,10 +42,6 @@ typeB.bathroom = 1
 
 typeB.show()
 
-"""
-Additional Project
-If the lesson is too fast
-"""
 # Calculate the area using square formula
 AreaA = typeA.width * typeA.length * typeA.height
 AreaB = typeB.width * typeB.length * typeB.height
