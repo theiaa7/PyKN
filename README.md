@@ -1,2 +1,2 @@
-# PyKN
-Stuff learned or made within KN 
+# Pyworks
+Stuff learned or made within works
